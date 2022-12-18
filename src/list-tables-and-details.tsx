@@ -17,10 +17,11 @@ export default function Command() {
 
     return (
       <List isShowingDetail isLoading={isLoading}>
-        {Object.keys(data?.definitions).map((item: any) => (
+        {Object.keys(data?.definitions as any).map((item: any) => (
           <List.Item
             key={item}
             title={item}
+            icon="table-icon.png"
             subtitle={data?.definitions[item].description ? data?.definitions[item].description : null}
             detail={
               <List.Item.Detail
