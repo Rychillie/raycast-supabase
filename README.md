@@ -12,7 +12,7 @@ Manage and query your Supabase project from Raycast
 </h2>
 
 <p align="center">
-    <img src="./assets/Screenshot.png" width="640px"/>
+    <img src="./assets/supabase-project-manager.png" width="960px"/>
 </p>
 
 ### TODO:
