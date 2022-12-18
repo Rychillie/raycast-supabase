@@ -12,6 +12,22 @@
     "Developer Tools"
   ],
   "license": "MIT",
+  "preferences": [
+    {
+      "name": "supabaseUrl",
+      "title": "Supabase URL",
+      "description": "Your Supabase URL",
+      "type": "textfield",
+      "required": true
+    },
+    {
+      "name": "supabaseKey",
+      "title": "Supabase Key",
+      "description": "Your Supabase Key",
+      "type": "textfield",
+      "required": true
+    }
+  ],
   "commands": [
     {
       "name": "index",
