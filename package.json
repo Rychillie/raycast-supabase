@@ -30,7 +30,7 @@
   ],
   "commands": [
     {
-      "name": "index",
+      "name": "list-tables-and-details",
       "title": "List Tables and Details",
       "subtitle": "Show Tables and Details",
       "description": "Template for showing a static list and a detail view",
