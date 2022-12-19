@@ -10,7 +10,7 @@
   <p align="center">
     🚧 atention this project is under development 🚧
     <br/>
-    Secured & Simple <strong><a href="https://supabase.io/">Supabase</a> way to Visualizer, manage and query your Supabase project's from Raycast.</strong>
+    <strong>Secured & Simple <a href="https://supabase.io/">Supabase</a> way to Visualizer,manage<br /> and query your Supabase project's from Raycast.</strong>
     <br />
     <br />
     <a href="https://github.com/Rychillie/raycast-supabase/issues">Report Bug</a>
